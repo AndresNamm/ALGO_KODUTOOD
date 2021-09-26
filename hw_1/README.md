@@ -26,4 +26,13 @@
 
 # ÜLESANNE 3 
 
-+ 
+
++ 3 algoritmi võrrelda ajalist kestvust vastaval sisendi (array) suurusele. Erineva suurusega arrayd saab genereerida generateLargeTestCase meetodiga. 
+  + n2 keerukusega
+  + n log n keerukusega
+  + java.utils Sorteerimine 
+
+# ÜLESANNE 4 
+
+
++ visualiseerida algoritmide ajalist kestvust vastavalt sisendi suurusele. 
