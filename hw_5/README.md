@@ -18,3 +18,9 @@
    + Puu ei tohi kunagi rohkem kui 1 võrra tasakaalust väljas olla
    + Kui lisame elemente, siis teeme vastavalt pöördeid, kui puu on tasakaalust väljas
    + Puu on tasakaalust väljas, kui leidub vanem, kelle parema/vasaku poole laster kõrgus on rohkem kui 1 võrra suurem/väiksem kui vasaku/parena kaste kõrgus
+
+## AVL PUU KOODIVÕTTED 
+
++ [Elementide lisamine AVL puu](https://www.geeksforgeeks.org/avl-tree-set-1-insertion/)
++ [Elementide eemaldamine  binaarpuu](https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/?ref=lbp)
++ [AVL puu elementide eemaldamine](https://www.geeksforgeeks.org/avl-tree-set-2-deletion/?ref=lbp)
