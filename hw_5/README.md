@@ -9,7 +9,7 @@
 + [Param ja vasakpöörded ning miks neid vaja võiks minna](https://www.youtube.com/watch?v=M0Y3kDuyUCU) 
    + Parem pööre - GRANDPARENT LIIGUP PAREMALE 
    + Vasak pööre - GRANDPARENT LIIGUB VASAKULE
-+ [Kõik Pöörded üldiselt ja millal neid vaja v]iks minna](https://www.youtube.com/watch?v=NczBLeco6XA)
++ [Kõik Pöörded üldiselt ja millal neid vaja võiks minna](https://www.youtube.com/watch?v=NczBLeco6XA)
    + Parem,Vasak, ParemVasak,VasakParem   
 + [Pöörete koodimine](https://www.youtube.com/watch?v=Y-nmgO8ALjM)
 ![image](https://user-images.githubusercontent.com/21141607/139584178-cd479ec2-d1ce-4c33-9e9f-8915f718d410.png)
