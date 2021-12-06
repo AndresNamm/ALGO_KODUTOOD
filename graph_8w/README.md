@@ -3,8 +3,6 @@
 + [Intuitive explanation for Krustkal](https://www.quora.com/What-is-an-intuitive-explanation-of-Prims-algorithm)
 + [Kruskal vs Prim](https://www.quora.com/What-is-the-difference-in-Kruskals-and-Prims-algorithm)
 
-
-
 + Poolik Abimeetod omniva.csv lugemiseks
 
 ~~~java 
@@ -43,6 +41,14 @@ public static Koordinaadid loeKaugusedFailist(String fail) throws FileNotFoundEx
                 koordinaadid_arr);
 }
 ~~~
+
+- Laiuskraad - Latitude (Näiteks Eesti laiuskraad on kuskil 58 ümber)
+- Pikkuskraad - Longitude (Näiteks eesti pikkuskraad on umbes kuskil 26 ümber)
+
+
+Latitude näide
+
+![image](https://user-images.githubusercontent.com/21141607/144815059-e9378357-7525-4586-99f8-3e88f548aff5.png)
 
 
 
