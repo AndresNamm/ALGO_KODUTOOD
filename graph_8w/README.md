@@ -5,6 +5,7 @@
 
 
 
++ Poolik Abimeetod omniva.csv lugemiseks
 
 ~~~java 
 class Koordinaadid {
