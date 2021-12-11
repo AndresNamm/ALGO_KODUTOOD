@@ -19,6 +19,21 @@
    + Kui lisame elemente, siis teeme vastavalt pöördeid, kui puu on tasakaalust väljas
    + Puu on tasakaalust väljas, kui leidub vanem, kelle parema/vasaku poole laster kõrgus on rohkem kui 1 võrra suurem/väiksem kui vasaku/parena kaste kõrgus
 
+## INBALANCE 
+
++ Parem pööre - GRANDPARENT LIIGUP PAREMALE 
++ Vasak pööre - GRANDPARENT LIIGUB VASAKULE
+
++ left child left subrtree has inbalance -> right rotation
++ right child right subtree has inbalance -> left rotation
++ right child left subtree has inbalance -> right rotation around child and then left rotation around grandparent 
++ left child right subtree has inbalance -> left rotation around child ant then right rotation  around grandparent 
+
+# ROTATION CODES 
+
+
+
+
 ## AVL PUU KOODIVÕTTED 
 
 + [Elementide lisamine AVL puu](https://www.geeksforgeeks.org/avl-tree-set-1-insertion/)
