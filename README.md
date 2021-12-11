@@ -1,5 +1,7 @@
-# Algoritmide kodutööde blankett 
+# Algoritmide praktikumi materjalid
 
-1. Klooni antud repo endale arvutisse
-2. Ava vastava kodutöö alamkaust Intellijäga. Näiteks kui tahad alustada kodutööga 2, siis ava Intellij's hw2 alamakaust. 
+Iga teema kohta on lisatud kas mingi koodi template vms kasuliku 
 
+# ÜLDISELT KASULIKUD MATERJALID 
+
++ [Palju koodi jms](https://algs4.cs.princeton.edu/10fundamentals/)
