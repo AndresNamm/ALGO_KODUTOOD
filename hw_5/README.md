@@ -31,7 +31,21 @@
 
 # ROTATION CODES 
 
+We do the rotations on GrandParent level as here we actually see the inbalance happening. 
+NB - in AVL trees the max difference can always be max 2. 
 
+~~~python
+class Node
+...
+def rightRotate(self):# At grandparent node where inbalance is happening
+   oldTrunkNode=Node(self.info, temp,self.right) # With righ trun we are moving grandparent to right lower leve
+   temp=self.left.right # As we are replacing the newTrun right with grandParent we need 
+   newTrunkNode=Node(self.left.info, self.left.left,oldTrunkNode)# Make old Trunk node to be int right
+   oldTrunkNode.left=temp # Setting this to be the previous left right node as itse bigger than previous left but smaller than trunk    
+
+def leftRotate(self): 
+  
+~~~
 
 
 ## AVL PUU KOODIVÕTTED 
